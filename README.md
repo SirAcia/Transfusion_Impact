@@ -21,7 +21,9 @@ predictors are supported by literature.
 - Impacts on Mortality: the Cox Proportional-Hazard model for 1-year mortality found that the only significant variable was BMI with inconsistent findings for other variables. 
   
 Repository Structure:
-Datathon_Script.R: Full script for all analysis
+Reading&Cleaning_Data.R: Reading data into R as well as cleaning, pre-processing, and imputation
+team_project.R: R file for all data analysis and visualization
+transfusion_data.xlsx: raw data file 
 
 Acknowledgments:
 We thank the our Professor for BTC1877: Data Science II for providing access to this dataset for this term project
